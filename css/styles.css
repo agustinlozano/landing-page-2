@@ -44,6 +44,7 @@ body {
 
 .bg-light {
     background-color: var(--grey) !important;
+    color: var(--primary);
 }
 
 .content {
@@ -76,7 +77,18 @@ section {
 .call-to-action img{
     max-width: 280px;
 }
+.cta-form {
+    max-width: 480px;
+}
 
+.cta-form .form-control {
+    min-height: 82px;
+}
+
+.cta-form .btn {
+    top: 12px;
+    right: 12px;
+}
 /* Media Queryes*/
 
 @media (max-width: 992px) {
@@ -90,5 +102,9 @@ section {
     
     .call-to-action {
         max-width: 100%;
+    }
+
+    .w-75 {
+        width: 100% !important;
     }
 }
