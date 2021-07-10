@@ -1,5 +1,5 @@
-## Proyecto Web
-Este proyecto el cual forma parte de mi portafolio, fue desarrollado mediante el uso de la librería Bootstrap y personalizado mediante el uso de hojas de estilo CSS.
+## Maquetado para desarrollo Web
+Este proyecto fue llevado a cabo mediante el uso de la librería Bootstrap y personalizado con hojas de estilo CSS.
 
 Utilice el sistema gestor de paquetes **npm** para agregar las dependencias del proyecto
 - Popperjs;
